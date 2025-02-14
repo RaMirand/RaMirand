@@ -1,12 +1,5 @@
 ### Hello there! I'm Ricardo Miranda
 
-- 🏎️ Mechanical Engineer learning new things for the future!
-- 🏡 Born in Portugal I came to live in Brazil very young.
-- 💼 Used to work at Porsche Cup Brasil and Stuttgart Motorsport.
-- 📚 Started a degree on software development in 2022.
-- 🔍 Looking for a internship or junior opportunity as software developer.
-- ⚡ Fun fact: I discovered the programming life working with Excel VBA.
-
 ##
 
 <header>
